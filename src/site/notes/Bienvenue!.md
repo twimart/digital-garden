@@ -1,7 +1,7 @@
 ---
-dg-home: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/Bienvenue!/","tags":["gardenEntry"]}
 ---
+
 
 Vous êtes à présent sur un site qui regroupe diverses notes personnelles que j'utilise au quotidien, notament dans mes études. 😊
 N'hésitez pas à vous en servir 😎! 
